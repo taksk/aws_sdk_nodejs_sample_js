@@ -1,0 +1,22 @@
+{
+  "name": "aws_sdk_sample_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taksk/aws_sdk_sample_js.git"
+  },
+  "author": "taksk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taksk/aws_sdk_sample_js/issues"
+  },
+  "homepage": "https://github.com/taksk/aws_sdk_sample_js#readme",
+  "dependencies": {
+    "aws-sdk": "^2.709.0"
+  }
+}
