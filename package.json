@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/taksk/aws_sdk_sample_js#readme",
   "dependencies": {
-    "aws-sdk": "^2.709.0"
+    "aws-sdk": "^2.814.0"
   }
 }
